@@ -1,0 +1,25 @@
+function_name: hello_world
+args: 
+function_call_time: Sun Jul  9 14:42:57 2023
+result: Hello World
+
+function_name: summator
+args: 2, 2, 
+function_call_time: Sun Jul  9 14:42:57 2023
+result: 4
+
+function_name: div
+args: 6, 2, 
+function_call_time: Sun Jul  9 14:42:57 2023
+result: 3.0
+
+function_name: summator
+args: 4.3, 2.2, 
+function_call_time: Sun Jul  9 14:42:57 2023
+result: 6.5
+
+function_name: summator
+args: 0, 0, 
+function_call_time: Sun Jul  9 14:42:57 2023
+result: 0
+

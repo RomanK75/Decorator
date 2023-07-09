@@ -1,0 +1,5 @@
+function_name: req
+args: https://akabab.github.io/superhero-api/api/all.json, 
+function_call_time: Sun Jul  9 15:09:28 2023
+result: {'name': 'Thanos', 'intelligence': 100}
+
